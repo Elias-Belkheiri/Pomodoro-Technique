@@ -1,7 +1,9 @@
 /* Variables */
 :root {
-    --main:  #77937D;
-    --secondry: #597478;
+    --main:  #90A4AE;
+    --secondry: #607D8B;
+    /* --main: #00838F ;
+    --secondry:  ; */
 }
 
 
@@ -156,6 +158,7 @@ button span{
     color: white;
     font-family: 'Inconsolata', monospace;;
     font-weight: normal;
+    font-size: 30px;
     border-bottom: white 1px solid;
     width: 100%;
     padding-bottom: 7px;
